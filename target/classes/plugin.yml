@@ -1,0 +1,20 @@
+name: FunSurvie
+author: Gabriel__l
+version: 1.0
+main: fr.survie.smp.SMP
+api-version: 1.13
+commands:
+  pack:
+    description: Permet d'avoir le lien du Pack.
+  stafflist:
+    description: Permet d'avoir toute la liste des Personnel(s) en Ligne.
+    aliases: sl
+  discordgui:
+    description: Ouvrir le Menu du Discord !
+  profilgui:
+    description: Ouvrir le Menu de ton Profil !
+  clearchat:
+    description: Clear le chat INGAME!
+    aliases: cc
+  kitsgui:
+    description: Afficher les Kits
