@@ -1,6 +1,6 @@
 # 🏆​ • SMP
 
-Survie avec Scoreboare &amp; Pack Custom (Non FINI)
+Survie avec Scoreboard &amp; Pack Custom (Non FINI)
 
 • Développé par: Gabriel__lrx
 
